@@ -34,6 +34,7 @@ To capture the dynamic nature of a cricket match, the project engineers several 
 
 ## 🤖 Machine Learning Model:
 The heart of the project is the Logistic Regression model trained using the Scikit-learn library. This model is chosen for its simplicity and interpretability, allowing for easy understanding of the factors contributing to the predicted probability of a team winning.
+
  **Model Development**:
    - Built a predictive model using a machine learning pipeline.
    - The model was trained on historical match data to learn patterns that affect match outcomes.
